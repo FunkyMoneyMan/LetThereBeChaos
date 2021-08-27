@@ -3266,7 +3266,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &93237375
 SpriteRenderer:
@@ -3614,7 +3614,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &108598945
 SpriteRenderer:
@@ -3941,7 +3941,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &133997954
 SpriteRenderer:
@@ -4813,7 +4813,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &178978211
 SpriteRenderer:
@@ -5911,7 +5911,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &192547937
 SpriteRenderer:
@@ -6456,7 +6456,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &217307353
 SpriteRenderer:
@@ -7212,7 +7212,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &255229561
 SpriteRenderer:
@@ -7539,7 +7539,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &271050374
 SpriteRenderer:
@@ -7992,7 +7992,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &278117302
 SpriteRenderer:
@@ -8355,7 +8355,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &312283710
 SpriteRenderer:
@@ -8791,7 +8791,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &331708237
 SpriteRenderer:
@@ -9722,7 +9722,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &365964216
 SpriteRenderer:
@@ -9940,7 +9940,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &378283654
 SpriteRenderer:
@@ -10158,7 +10158,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &397059012
 SpriteRenderer:
@@ -10267,7 +10267,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &411273600
 SpriteRenderer:
@@ -11132,7 +11132,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &430063359
 SpriteRenderer:
@@ -11350,7 +11350,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &446180659
 SpriteRenderer:
@@ -11459,7 +11459,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &449744135
 SpriteRenderer:
@@ -11895,7 +11895,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &471030967
 SpriteRenderer:
@@ -13569,7 +13569,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &523148557
 SpriteRenderer:
@@ -14894,7 +14894,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &575953758
 SpriteRenderer:
@@ -15003,7 +15003,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &579029457
 SpriteRenderer:
@@ -16323,7 +16323,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &624902957
 SpriteRenderer:
@@ -18101,7 +18101,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &751340966
 SpriteRenderer:
@@ -18864,7 +18864,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &773724947
 SpriteRenderer:
@@ -18973,7 +18973,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &779154015
 SpriteRenderer:
@@ -19191,7 +19191,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &788451890
 SpriteRenderer:
@@ -19518,7 +19518,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &803829084
 SpriteRenderer:
@@ -19627,7 +19627,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &811891097
 SpriteRenderer:
@@ -20129,7 +20129,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &832407429
 SpriteRenderer:
@@ -20456,7 +20456,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &843098033
 SpriteRenderer:
@@ -20565,7 +20565,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &843603023
 SpriteRenderer:
@@ -20674,7 +20674,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &849266383
 SpriteRenderer:
@@ -21341,7 +21341,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &856572823
 SpriteRenderer:
@@ -22766,7 +22766,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &888382491
 SpriteRenderer:
@@ -24504,7 +24504,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &957755491
 SpriteRenderer:
@@ -26683,7 +26683,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &1092337231
 SpriteRenderer:
@@ -28114,7 +28114,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &1179986627
 SpriteRenderer:
@@ -28979,7 +28979,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &1220722424
 SpriteRenderer:
@@ -31868,7 +31868,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &1451178242
 SpriteRenderer:
@@ -32590,7 +32590,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &1487034841
 SpriteRenderer:
@@ -33984,7 +33984,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &1544858447
 SpriteRenderer:
@@ -34420,7 +34420,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &1573317730
 SpriteRenderer:
@@ -38611,7 +38611,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &1709526648
 SpriteRenderer:
@@ -39374,7 +39374,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &1780647450
 SpriteRenderer:
@@ -39701,7 +39701,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &1806024271
 SpriteRenderer:
@@ -40355,7 +40355,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &1835171327
 SpriteRenderer:
@@ -42548,7 +42548,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &1998946193
 SpriteRenderer:
@@ -42657,7 +42657,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &2000282744
 SpriteRenderer:
@@ -43219,7 +43219,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &2042343763
 SpriteRenderer:
@@ -43812,7 +43812,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &2070918252
 SpriteRenderer:
@@ -44459,7 +44459,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32000062, y: 0.32000017, z: 0.20000009}
+  m_Size: {x: 0.1, y: 0.32000017, z: 0.20000009}
   m_Center: {x: -0.00000071525574, y: 0.00000011920929, z: 0}
 --- !u!212 &2092135545
 SpriteRenderer:
