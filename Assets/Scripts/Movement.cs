@@ -9,12 +9,14 @@ public class Movement : MonoBehaviour
     //public Camera cam;
     //public Interactable focus;
     public float JumpHight = 2;
+    public CharacterController cc;
 
     // Start is called before the first frame update
     void Start()
     {
         //Cursor.lockState = CursorLockMode.Locked;
         //cam = Camera.main;
+        cc = GetComponent<CharacterController>();
     }
 
     // Update is called once per frame
@@ -25,12 +27,7 @@ public class Movement : MonoBehaviour
             if (Input.GetButton("Horizontal")) straffe = Input.GetAxis("Horizontal") > 0 ? MoveSpeed : -MoveSpeed;
             float translation = 0;
             if (Input.GetButton("Vertical")) translation = Input.GetAxis("Vertical") > 0 ? MoveSpeed : -MoveSpeed;
-
-            transform.Translate(straffe * Time.deltaTime, translation * Time.deltaTime, 0);
-        }
-        if (Input.GetKeyDown("space"))
-        {
-            transform.Translate(0, JumpHight, 0);
+            cc.Move(new Vector3(straffe * Time.deltaTime, translation * Time.deltaTime, 0));
         }
     }
 }
