@@ -18,5 +18,6 @@ public class SceneTransition : MonoBehaviour
     public void NextScene()
     {
         GetComponent<Animator>().SetTrigger("Next");
+        Debug.Log("Test");
     }
 }
