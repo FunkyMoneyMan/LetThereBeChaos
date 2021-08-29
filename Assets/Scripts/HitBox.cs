@@ -18,8 +18,7 @@ public class HitBox : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        SceneManager.LoadScene("Menu");
+        SceneManager.LoadScene("Level1");
         Debug.Log(other.gameObject.name + " : " + gameObject.name + " : " + Time.time);
-        
     }
 }
